@@ -695,6 +695,24 @@ a {
   padding-bottom: 30px;
   background-color: #232323;
 }
+.cid-snzXwhNm5e {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+@media (max-width: 991px) {
+  .cid-snzXwhNm5e .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-snzXwhNm5e img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-snzXwhNm5e .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-slERmdvvEL {
   padding-top: 0rem;
   padding-bottom: 0rem;
