@@ -1,0 +1,63 @@
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 100;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/100.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 900;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/900.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Spartan';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/matt/OneDrive/data/HTML/MOBIRIS3/fonts/Spartan/regular.ttf') format('truetype');
+}
